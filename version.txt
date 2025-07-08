@@ -1,5 +1,5 @@
 package: com.crystalslim
-version: 1.1beta
+version: 1.2beta
 url: https://t.me/m3ddeveloper
 name: mahmoud
 msg: 
