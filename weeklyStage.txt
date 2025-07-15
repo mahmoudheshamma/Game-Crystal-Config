@@ -1,6 +1,4 @@
 {
-  "stages": [
-    {
       "stageNumber": -1,
       "rows": 8,
       "cols": 8,
@@ -28,5 +26,3 @@
         "value": 60
       }
     }
-  ]
-}
