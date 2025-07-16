@@ -81,7 +81,7 @@
       },
       "loseCondition": {
         "type": "touches",
-        "value": 80
+        "value": 70
       }
     }
   ]
